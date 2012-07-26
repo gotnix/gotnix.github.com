@@ -1,0 +1,21 @@
+---
+layout: post
+title: Emacs Org-mode Hello World.
+category: emacs
+tags: [emacs,org-mode]
+---
+
+* Hello Emacs Org-mode
+** 第一个二级标题
+   如果要在有序列表和无序列表之间转换，只需要在里表条目上按S-←/→，就可以转换为条目起始的标记。
+   - 二级标题第一点
+   - 二级标题第二点
+   - 二级标题第三点
+** 第二个二级标题
+   - 注意事项一
+   - 注意事项二
+
+-----
+** 参考链接：
+   - [[http://emacser.com/org-mode-yupeng.htm][Emacs 中文网 —— Emacs 的Org Mode]]
+   - [[http://emacser.com/org-mode.htm][Emacs 中文网 —— Emacs org mode学习笔记]]
